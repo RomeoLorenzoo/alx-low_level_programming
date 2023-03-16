@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdlib.hu>
+#include <stdlib.h>
 /**
  * _memset - sets a block of memory with a specific value
  * @s: pointer to the block of memory to fill
